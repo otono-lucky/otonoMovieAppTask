@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\otonoMovieAppTask.props" />
+</Project>

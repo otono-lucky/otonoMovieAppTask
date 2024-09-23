@@ -1,0 +1,6 @@
+@otonoMovieAppTask_HostAddress = http://localhost:5275
+
+GET {{otonoMovieAppTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "otonoMovieAppTask.Controllers.MovieController",
+    "Method": "MovieSearch",
+    "RelativePath": "api/Movie/search/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otonoMovieAppTask.Controllers.MovieController",
+    "Method": "GetSearchHistory",
+    "RelativePath": "api/Movie/searchHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
